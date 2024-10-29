@@ -20,3 +20,13 @@
 
 
 * **SELECT** - Para consultar e visualizar dados
+
+  <hr>
+
+**C**reate <br>
+
+**R**ead <br>
+
+**U**pdate <br>
+
+**D**elete

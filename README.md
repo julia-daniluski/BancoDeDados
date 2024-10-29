@@ -1,2 +1,5 @@
-# BancoDeDados
+## Comandos básicos de SQL:
+<br>
+
+
  
